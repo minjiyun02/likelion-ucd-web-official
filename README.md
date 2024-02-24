@@ -6,7 +6,10 @@ LIKELION @ UCD Official Website Repo
 * CSS
 
 ## Contributors
-* [<img src="https://github.com/minjiyun02.png" width="60px;"/><br /><sub><ahref="https://github.com/minjiyun02">Minji Yun</a></sub>](https://github.com/minjiyun02/likelion-ucd-web-official)
+
+<a href="https://github.com/minjiyun02/likelion-ucd-web-official/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=minjiyun02/likelion-ucd-web-official"/>
+</a>
 
 ## References and resources 
 * Google Maps implementation - https://extension.umaine.edu/plugged-in/technology-marketing-communications/web/tips-for-web-managers/embed-map/
