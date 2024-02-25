@@ -15,6 +15,7 @@ LIKELION @ UCD Official Website Repo
 * Yumin Jun - https://github.com/junyumin8194
 * Ooju Lee - https://github.com/oojulee
 * Jinho Yon - https://github.com/jinhoyon
+* Nakyung Han - https://github.com/ellakyung
 
 
 ## References and resources 
