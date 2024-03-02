@@ -118,8 +118,8 @@ body {
 
   .value-circle {
     border-radius: 50%;
-    background-color: #219ebc;
-    color: white;
+    background-color: #C6E4F2;
+    color: black;
     padding: 0; /* Remove padding */
     width: 200px; /* Set a fixed width */
     height: 200px; /* Set a fixed height */
@@ -207,4 +207,10 @@ body {
   .site-navigation ul {
       gap: 10px; 
   }
+
+  .values-section, .project-summary {
+    flex-direction: column; /* Change to a vertical layout */
+    align-items: center; /* Center items horizontally */
+  }
 }
+
