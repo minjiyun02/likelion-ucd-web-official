@@ -207,7 +207,9 @@ body {
   .site-navigation ul {
       gap: 10px; 
   }
-
+  .slogan-container {
+    align-items: center;
+  }
   .values-section, .project-summary {
     flex-direction: column; /* Change to a vertical layout */
     align-items: center; /* Center items horizontally */
