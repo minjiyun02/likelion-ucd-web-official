@@ -2,8 +2,9 @@
 LIKELION @ UCD Official Website Repo
 
 ## Used technologies and libraries
-* HTML
-* CSS
+* HTML - Frontend
+* CSS - UI/UX
+* JavaScript - Animations
 
 ## Contributors
 
