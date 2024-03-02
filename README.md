@@ -19,6 +19,7 @@ LIKELION @ UCD Official Website Repo
 * Grace Mun - https://github.com/mgrace-hye
 * Nakyung Han - https://github.com/ellakyung
 * Jinho Yon - https://github.com/jinhoyon
+* Juhwan Kim - https://github.com/twthree
 
 
 ## References and resources 
