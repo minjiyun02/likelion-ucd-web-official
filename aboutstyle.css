@@ -1,0 +1,278 @@
+/*===============+====TOP BOTTOM NAV BARS======================*/
+.site-footer {
+    background-color: #023047;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  .background ul {
+    list-style: none;
+    padding: 0;
+    display: flex; 
+    justify-content: center; 
+    gap: 120px;
+  }
+  .background ul li {
+    color: #2B2B2B;
+  }
+  .background ul li:not(:last-child) {
+    margin-right: 20px; /* Adjust margin as needed */
+  }
+  a {
+    color: #2B2B2B;
+    text-decoration: none;
+  }
+
+  .navigation-bar {
+    display: flex;
+    justify-content: center;
+  }
+  .nav-list {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+  }
+  .hero-section {
+    text-align: center;
+    padding: 30px;
+  }
+
+  .footer-content {
+    text-align: center;
+  }
+  .site-header, .site-footer {
+    background-color: #023047;
+    color: white;
+    padding: 20px;
+  }
+
+  
+  .footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  }
+  .footer-nav-list {
+    list-style-type: none;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+  }
+  .footer-nav-item {
+    margin: 0;
+  }
+  
+  .footer-nav-item a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+  }
+  .social-media-icons {
+    display: flex;
+    gap: 20px;
+  }
+  .social-icon {
+    width: 42px;
+  }
+  .contact-email {
+    color: white;
+    text-decoration: none;
+  }
+
+
+/*==================================TOP BOTTOM NAV BAR END===================================*/
+
+
+
+.lalezar-regular {
+    font-family: "Lalezar", system-ui;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.poppins-semibold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    display: inline;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/*
+.slogan {
+    background-color: transparent;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    size: 290, 83
+    
+} 
+*/
+
+.slogan-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .slogan img {
+    max-width: 100%;
+    height: auto;
+  }
+  /*========End Slogan========*/
+
+
+.about {
+    display: flex;
+    font-family: "Lalezar", system-ui;
+    font-size: 64px;
+    margin-top:0;
+    padding-left: 150px;
+
+}
+
+.mission {
+    display: flex;
+    font-family: "Lalezar", system-ui;
+    font-size: 64px;
+    margin-top:0;
+    padding-left: 166px;
+}
+
+.companies {
+    display: flex;
+    font-family: "Lalezar", system-ui;
+    font-size: 64px;
+    margin-top:0;
+    padding-left: 166px;
+    line-height: 1;
+}
+
+.background {
+    background: linear-gradient(180deg, rgba(142, 202, 230, 0.6), rgba(255, 183, 3, 0.45), rgba(251, 164, 4, 0.15),rgba(255, 255, 255, 0.15), rgba(2, 48, 71, 0.15) );
+    
+    font-family: sans-serif;
+    padding: 100;
+    position: static;
+
+}
+.background2 {
+    background: rgba(218,225,228);
+}
+
+
+.container{
+    display: flex;
+    align-items: center;
+    padding-bottom: 93px;
+}
+.smallImage {
+    display: flex;
+    vertical-align: middle;
+    object-fit: contain;
+    width: 400px;
+    height: 300px;
+    padding-left: 166px;
+}
+.body_paragraph {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: inline;
+    flex-direction: column;
+    padding-left: 67px;
+    white-space: nowrap;
+}
+
+.background3{
+    background: linear-gradient(180deg, rgba(2, 48, 71, 0.15), rgba(255, 255, 255, 0.15), rgba(255, 183, 3, 0.11));
+    position: static;
+    padding: 100;
+}
+
+.smallImage2 {
+    display: flex;
+    vertical-align: middle;
+    object-fit: contain;
+    width: 700px;
+    height: 160px;
+    padding-left: 166px;
+}
+
+ul {
+    padding-left: 151px;
+    position: static;
+}
+
+.smallImage3 {
+    display: flex;
+    vertical-align: middle;
+    object-fit: contain;
+    width: 630px;
+    height: 170;
+    padding-left: 166px;
+}
+.smallImage4 {
+    display: flex;
+    vertical-align: middle;
+    object-fit: contain;
+    width: 157px;
+    height: 161px;
+    padding-left: 70px;
+}
+.smallImage5 {
+    display: flex;
+    vertical-align: middle;
+    object-fit: contain;
+    width: 552.57px;
+    height: 557px;
+    padding-left: 120px;
+}
+.ucdllus{
+    display: flex;
+    font-family: "Lalezar", system-ui;
+    font-size: 50px;
+    margin-top:0;
+    padding-left: 0px;
+}
+
+.body_paragraph2 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    font-style: normal;
+    display: inline;
+    flex-direction: column;
+    padding-left: 67px;
+    white-space: nowrap;
+}
+.likelion_us{
+    display: flex;
+    font-family: "Lalezar", system-ui;
+    font-size: 64px;
+    margin-top:0;
+    padding-left: 150px;
+}
+.smallImage6 {
+    display: flex;
+    vertical-align: middle;
+    object-fit: contain;
+    width: 530px;
+    height: 355.02px;
+    padding-left: 120px;
+}
+.container2{
+    display: flex;
+    align-items: flex-start;
+    padding-bottom: 93px;
+}
