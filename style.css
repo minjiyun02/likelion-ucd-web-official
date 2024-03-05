@@ -1,3 +1,7 @@
+* {
+  font-family: "Poppins";
+}
+
 body {
     font-family: Arial, sans-serif;
   }
@@ -16,7 +20,7 @@ body {
     margin: 0 70px;
   }
   a {
-    color: #219ebc;
+    color: black;
     text-decoration: none;
   }
   .about-us, .board-members, .additional-info {
@@ -47,7 +51,6 @@ body {
     margin: 0 5px;
   }
   
-  
   body, html {
     margin: 0;
     padding: 0;
@@ -71,7 +74,6 @@ body {
     gap: 20px;
   }
   .hero-section {
-    background: linear-gradient(180deg, rgba(142, 202, 230, 0.5) 10.6%, rgba(255, 183, 3, 0.6) 64.6%, rgba(251, 135, 4, 0.15) 100%);
     text-align: center;
     padding: 100px;
   }
@@ -99,7 +101,7 @@ body {
     width: 8px;
     height: 8px;
   }
-  .values-section, .project-summary{
+  .values-section {
     display: flex;
     justify-content: center;
     gap: 20px;
@@ -110,7 +112,7 @@ body {
   }
   .value-circle {
     border-radius: 50%;
-    background-color: #219ebc;
+    background-color: #0B6189;
     color: white;
     padding: 0; /* Remove padding */
     width: 200px; /* Set a fixed width */
@@ -141,4 +143,35 @@ body {
   .contact-email {
     color: white;
     text-decoration: none;
+  }
+  
+  .core-values, .ground-rules {
+    text-align: center;
+    font-size: 35;
+    
+  }
+
+  .core-values {
+    font-weight: 600;
+  }
+
+  .ground-rules{
+    font-weight: 400;
+  }
+
+  img{
+    margin-bottom: 450px;
+  }
+
+  main {
+    /* background: linear-gradient(180deg, #8ECAE6 50%, #FFB703 60%, #FB8704 16%); */
+    background: linear-gradient(180deg, #8ECAE6 50%, #FFB703 55%, #FB8704 60%, #FB8704 100%);
+  }
+
+  .project-section {
+    text-align: left;
+    gap: 20px;
+    padding: 50px;
+    display: flex;
+
   }
