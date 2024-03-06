@@ -276,3 +276,147 @@ ul {
     align-items: flex-start;
     padding-bottom: 93px;
 }
+
+
+
+
+
+/*===================== MEMEBERS SECTION ====================*/
+
+
+.members {
+  box-sizing: border-box;
+  background: rgb(255, 255, 255);
+  margin-left: 0px;
+  margin-right: 0px;
+  font-family: Lalezar;
+}
+
+.introMem {
+  box-sizing: border-box;
+  margin-left: 150px;
+  height: 100px;
+  padding-top: 0;
+  color: #FB8704;
+  font-size: 25px;
+  padding-top: 20px;
+}
+
+.members h2 {
+  box-sizing: border-box;
+  padding-left: 210px;
+  /* padding-left: auto; */
+}
+
+.profiles {
+  box-sizing: border-box;
+  background-color: #8ECAE6;
+  /* height: 195px;
+  width: 195px; */
+  height: auto;
+  width: auto;
+  border-radius: 50%;
+  /* box-shadow: 10px 10px 7px 0px rgba(163,163,163,1); */
+}
+
+.members div {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content: center;
+  gap: 100px;
+  padding-bottom: 50px;
+
+}
+
+.members article p {
+  box-sizing: border-box;
+  color: #FB8704;
+  font-size: 20px;
+  padding-top: 0;
+  margin-bottom: 5px;
+  line-height: 1.6;
+}
+
+.members h2 {
+  box-sizing: border-box;
+  font-size: 40px;
+  color: #023047;
+  margin-top: 20px;
+}
+
+.members h3 {
+  box-sizing: border-box;
+  color: #023047;
+  font-size: 30px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+@media only screen and (max-width: 600px) {
+  .members {
+      box-sizing: border-box;
+      max-width: 100%;
+      margin: 0;
+      padding: 0 20px;
+  }
+
+  .members h1 {
+    box-sizing: border-box;
+      font-size: 30px;
+  }
+
+  .frontend,
+  .backend,
+  .design {
+    box-sizing: border-box;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+  }
+
+  .frontend article,
+  .backend article,
+  .design article {
+    box-sizing: border-box;
+      flex: 1 1 45%;
+      margin: 5px;
+  }
+
+  .members, h2 {
+    box-sizing: border-box;
+      padding-left:auto; 
+  }
+  
+  .profiles {
+    box-sizing: border-box;
+      height: auto; 
+      width: auto; 
+  }
+  
+  .members article {
+    box-sizing: border-box;
+      width: 300px;
+  }
+  
+  .members article p {
+    box-sizing: border-box;
+      font-size: 16px; 
+      margin-bottom: 3px; 
+  }
+  
+  .members h2 {
+    box-sizing: border-box;
+      font-size: 25px; 
+      margin-top: 10px; 
+  }
+  
+  .members h3 {
+    box-sizing: border-box;
+      font-size: 23px; 
+      margin-top: 3px; 
+      margin-bottom: 3px; 
+  }
+}
