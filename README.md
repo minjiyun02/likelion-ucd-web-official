@@ -48,3 +48,4 @@ LIKELION @ UCD Official Website Repo
 ## References and resources 
 * Google Maps implementation - https://extension.umaine.edu/plugged-in/technology-marketing-communications/web/tips-for-web-managers/embed-map/
 * HTML/CSS Adjusting to fit all types of resolution - https://www.codeproject.com/Articles/762201/Adjusting-your-Websites-to-Fit-all-Types-of-Resolu
+* How to center images - https://blog.hubspot.com/website/center-an-image-in-html
